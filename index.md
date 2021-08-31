@@ -28,7 +28,7 @@
 
 ### École Centrale Paris | Saclay | 2015 - 2020
 
-Diplôme d'ingénieur généraliste | 2016-2017 : césure entrepreneuriale à Londres
+Diplôme d'ingénieur généraliste / 2016-2017 : césure entrepreneuriale à Londres
 
 ---
 
@@ -48,7 +48,14 @@ Anglais courant *(TOEFL : 650/677)*, Espagnol courant *(C1)*, Russe *(A2)*
 
 ## Informatique
 
-Suite Google, Python *(Pandas, NumPy)*, Neo4j *(Cypher)*, GeNIe, OR-Tools, SolidWorks, Unity
+- Suite Google / Office
+- Python *(Pandas, NumPy, PySide6)* 
+- Neo4j *(Cypher)* 
+- GeNIe 
+- OR-Tools 
+- SolidWorks
+- FL Studio 
+- Unity
 
 ## Centres d'intérêts
 
