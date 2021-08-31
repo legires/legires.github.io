@@ -25,7 +25,7 @@
 ### École Centrale Paris | Saclay | 2015 - 2020
 
 - Diplôme d'ingénieur généraliste 
-- 2016-2017 : césure entrepreneuriale à Londres)
+- 2016-2017 : césure entrepreneuriale à Londres
 
 ---
 
