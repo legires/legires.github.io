@@ -1,10 +1,8 @@
-# Louis-Emmanuel Gires
-
 *26 ans | 233 rue Nationale, 59800 Lille | (+33)7 87 13 03 43 | louisemmanuelgires@gmail.com*
 
 ## Expérience professionnelle
 
-**EVA GROUP | Paris | Janvier 2021 - Actuel**
+### **EVA GROUP | Paris | Janvier 2021 - Actuel**
 
 - Consulting en cybersécurité pour plusieurs grands groupes et entreprises publiques
 
