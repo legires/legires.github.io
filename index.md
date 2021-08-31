@@ -1,35 +1,61 @@
-## Portfolio
+# Louis-Emmanuel Gires
+
+*26 ans | 233 rue Nationale, 59800 Lille | (+33)7 87 13 03 43 | louisemmanuelgires@gmail.com*
+
+## Expérience professionnelle
+
+**EVA GROUP | Paris | Janvier 2021 - Actuel**
+
+- Consulting en cybersécurité pour plusieurs grands groupes et entreprises publiques
+
+- Audit et modélisation du risque cyber pour plusieurs startups et PME
 
 ---
 
-### Category Name 1 
+**EYEROES | Saclay | Janvier 2019 - Janvier 2021**
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Prix de l'Innovation au Hackathon LEEM *(Les Entreprises du Médicament)* / Pépite France 2019
 
 ---
 
-### Category Name 2
+**CRYPTIO | Paris | Juin 2019 - Août 2019**
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Missions commerciales : Prospecting, data-scraping, data analysis et optimisation SEO (PageRank, blogging)
+
+- Missions stratégiques : Ranking des leviers d'acquisition, benchmarking, veille concurentielle, documents prospectifs
+
+## Formation
+
+**École Centrale Paris | Saclay | 2015 - 2020**
+
+Diplôme d'ingénieur généraliste | 2016-2017 : césure entrepreneuriale à Londres
 
 ---
 
+**Lycée Sainte-Geneviève | Versailles | 2012 - 2014**
 
-
+CPGE PTSI/PT\* *(Physique et Technologie)*
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+**Lycée Louis-Le-Grand | Paris | 2009 - 2012**
+
+Baccalauréat Scientifique mention Très Bien
+
+## Langues
+
+Anglais courant *(TOEFL : 650/677)*, Espagnol courant *(C1)*, Russe *(A2)*
+
+## Informatique
+
+Suite Google, Python *(Pandas, NumPy)*, Neo4j *(Cypher)*, GeNIe, OR-Tools, SolidWorks, Unity
+
+## Centres d'intérêts
+
+- Président de la radio de Centrale Paris *(RadioPi)*
+
+- Fondateur de la webradio de CentraleSupélec *(RICS)*
