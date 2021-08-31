@@ -24,9 +24,8 @@
 
 ### École Centrale Paris | Saclay | 2015 - 2020
 
-Diplôme d'ingénieur généraliste
-
-2016-2017 : césure entrepreneuriale à Londres
+- Diplôme d'ingénieur généraliste 
+- 2016-2017 : césure entrepreneuriale à Londres)
 
 ---
 
@@ -42,7 +41,9 @@ Baccalauréat Scientifique mention Très Bien
 
 ## Langues
 
-Anglais courant *(TOEFL : 650/677)*, Espagnol courant *(C1)*, Russe *(A2)*
+- Anglais courant *(TOEFL : 650/677)*
+- Espagnol courant *(C1)*
+- Russe *(A2)*
 
 ## Informatique
 
@@ -58,5 +59,4 @@ Anglais courant *(TOEFL : 650/677)*, Espagnol courant *(C1)*, Russe *(A2)*
 ## Centres d'intérêts
 
 - Président de la radio de Centrale Paris *(RadioPi)*
-
 - Fondateur de la webradio de CentraleSupélec *(RICS)*
