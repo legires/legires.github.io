@@ -1,8 +1,8 @@
-*26 ans | 233 rue Nationale, 59800 Lille | (+33)7 87 13 03 43 | louisemmanuelgires@gmail.com*
+26 ans | 233 rue Nationale, 59800 Lille | (+33)7 87 13 03 43 | **louisemmanuelgires@gmail.com**
 
 ## Expérience professionnelle
 
-### **EVA GROUP | Paris | Janvier 2021 - Actuel**
+### EVA GROUP | Paris | Janvier 2021 - Actuel
 
 - Consulting en cybersécurité pour plusieurs grands groupes et entreprises publiques
 
@@ -10,7 +10,7 @@
 
 ---
 
-**EYEROES | Saclay | Janvier 2019 - Janvier 2021**
+### EYEROES | Saclay | Janvier 2019 - Janvier 2021
 
 - Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
 
@@ -20,7 +20,7 @@
 
 ---
 
-**CRYPTIO | Paris | Juin 2019 - Août 2019**
+### CRYPTIO | Paris | Juin 2019 - Août 2019
 
 - Missions commerciales : Prospecting, data-scraping, data analysis et optimisation SEO (PageRank, blogging)
 
@@ -28,19 +28,19 @@
 
 ## Formation
 
-**École Centrale Paris | Saclay | 2015 - 2020**
+### École Centrale Paris | Saclay | 2015 - 2020
 
 Diplôme d'ingénieur généraliste | 2016-2017 : césure entrepreneuriale à Londres
 
 ---
 
-**Lycée Sainte-Geneviève | Versailles | 2012 - 2014**
+### Lycée Sainte-Geneviève | Versailles | 2012 - 2014
 
 CPGE PTSI/PT\* *(Physique et Technologie)*
 
 ---
 
-**Lycée Louis-Le-Grand | Paris | 2009 - 2012**
+### Lycée Louis-Le-Grand | Paris | 2009 - 2012
 
 Baccalauréat Scientifique mention Très Bien
 
