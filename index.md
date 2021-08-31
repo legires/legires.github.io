@@ -22,20 +22,20 @@
 
 ## Formation
 
-### École Centrale Paris | Saclay | 2015 - 2020
+### ÉCOLE CENTRALE PARIS | Saclay | 2015 - 2020
 
 - Diplôme d'ingénieur généraliste 
 - 2016-2017 : césure entrepreneuriale à Londres
 
 ---
 
-### Lycée Sainte-Geneviève | Versailles | 2012 - 2014
+### LYCÉE SAINTE-GENEVIÈVE | Versailles | 2012 - 2014
 
 CPGE PTSI/PT\* *(Physique et Technologie)*
 
 ---
 
-### Lycée Louis-Le-Grand | Paris | 2009 - 2012
+### LYCÉE LOUIS-LE-GRAND | Paris | 2009 - 2012
 
 Baccalauréat Scientifique mention Très Bien
 
