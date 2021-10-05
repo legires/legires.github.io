@@ -4,6 +4,7 @@
 
 - Consulting en cybersécurité pour plusieurs grands groupes et entreprises publiques
 - Audit et modélisation du risque cyber pour plusieurs startups et PME
+- *Technologies : Wireshark, GeNIe, SMILE, Neo4j*
 
 ---
 
@@ -12,6 +13,7 @@
 - Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 - Prix de l'Innovation au Hackathon LEEM *(Les Entreprises du Médicament)* / Pépite France 2019
+- *Technologies : WebGL, Unity*
 
 ---
 
@@ -19,6 +21,7 @@
 
 - Missions commerciales : Prospecting, data-scraping, data analysis et optimisation SEO (PageRank, blogging)
 - Missions stratégiques : Ranking des leviers d'acquisition, benchmarking, veille concurentielle, documents prospectifs
+- *Technologies : Pipedrive, Lemlist, WordPress*
 
 ## Formation
 
