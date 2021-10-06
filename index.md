@@ -4,7 +4,7 @@
 
 - Consulting en cybersécurité pour plusieurs grands groupes et entreprises publiques
 - Audit et modélisation du risque cyber pour plusieurs startups et PME
-- *Technologies : Wireshark, GeNIe, SMILE, Neo4j*
+- *Technologies : Wireshark, GeNIe, Neo4j*
 
 ---
 
@@ -51,10 +51,10 @@ Baccalauréat Scientifique mention Très Bien
 ## Informatique
 
 - Suite Google / Office
-- Python *(Pandas, NumPy, PySide6)* 
+- Python *(Pandas, NumPy, PySide6, PyTorch)* 
 - Neo4j *(Cypher)* 
-- GeNIe 
 - OR-Tools 
+- GeNIe  
 - SolidWorks
 - FL Studio 
 - Unity
