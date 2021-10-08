@@ -13,7 +13,7 @@
 - Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 - Prix de l'Innovation au Hackathon LEEM / Pépite France 2019
-- *Technologies : WebGL, Unity, Raspbian OS*
+- *Technologies : WebGL, Unity, Raspberry Pi OS*
 
 ---
 
