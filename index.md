@@ -52,7 +52,7 @@ Baccalauréat Scientifique mention Très Bien
 
 - Suite Google / Office
 - Python *(Pandas, NumPy, PySide6, Requests)*
-- Machine Learning *(Gym, PyTorch, TensorFlow, Keras)
+- Machine Learning *(Gym, PyTorch, TensorFlow, Keras)*
 - Neo4j *(Cypher, Data Explorer, Linkurious)* 
 - OR-Tools 
 - GeNIe  
