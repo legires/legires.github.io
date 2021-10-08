@@ -12,22 +12,22 @@
 
 - Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
-- Prix de l'Innovation au Hackathon LEEM *(Les Entreprises du Médicament)* / Pépite France 2019
+- Prix de l'Innovation au Hackathon LEEM / Pépite France 2019
 - *Technologies : WebGL, Unity, Raspbian OS*
 
 ---
 
 ### CRYPTIO | Paris | Juin 2019 - Août 2019
 
-- Missions commerciales : Prospecting, data-scraping, data analysis et optimisation SEO (PageRank, blogging)
-- Missions stratégiques : Ranking des leviers d'acquisition, benchmarking, veille concurentielle, documents prospectifs
+- Missions commerciales : Data-scraping, prospecting, optimisation SEO (PageRank, blogging)
+- Missions stratégiques : Ranking des leviers d'acquisition, benchmarking, veille concurentielle
 - *Technologies : Pipedrive, Lemlist, WordPress*
 
 ## Formation
 
-### ÉCOLE CENTRALE PARIS | Saclay | 2015 - 2020
+### ÉCOLE CENTRALE PARIS | Châtenay-Malabry | 2015 - 2020
 
-- Diplôme d'ingénieur généraliste 
+- Diplôme d'ingénieur généraliste, option OGI, filière FCE 
 - 2016-2017 : césure entrepreneuriale à Londres
 
 ---
