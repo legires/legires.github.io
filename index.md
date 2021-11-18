@@ -1,9 +1,9 @@
 ## Expérience professionnelle
 
-### EVA GROUP | Paris | Janvier 2021 - Actuel
+### EVABSSI | Paris | Janvier 2021 - Actuel
 
-- Consulting en cybersécurité pour plusieurs grands groupes et entreprises publiques
-- Audit et modélisation du risque cyber pour plusieurs startups et PME
+- Consulting en cybersécurité
+- Audit et modélisation du risque cyber
 - *Technologies : Wireshark, GeNIe, Neo4j*
 
 ---
