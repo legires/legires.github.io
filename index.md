@@ -1,6 +1,6 @@
 ## Expérience professionnelle
 
-### EVABSSI | Paris | Janvier 2021 - Actuel
+### EVA Group | Paris | Janvier 2021 - Actuel
 
 - Consulting en cybersécurité
 - Audit et modélisation du risque cyber
