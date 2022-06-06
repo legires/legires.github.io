@@ -1,10 +1,9 @@
 ## Expérience professionnelle
 
-### EVA Group | Paris | Janvier 2021 - Actuel
+### EvaBssi | Paris | Janvier 2021 - Actuel
 
 - Consulting en cybersécurité
 - Audit et modélisation du risque cyber
-- *Technologies : Wireshark, GeNIe, Neo4j*
 
 ---
 
@@ -13,52 +12,20 @@
 - Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 - Prix de l'Innovation au Hackathon LEEM / Pépite France 2019
-- *Technologies : WebGL, Unity, Raspberry Pi OS*
 
----
+## Diplômes
 
-### CRYPTIO | Paris | Juin 2019 - Août 2019
+### Ingénieur généraliste | ÉCOLE CENTRALE PARIS | Châtenay-Malabry
 
-- Missions commerciales : Data-scraping, prospecting, optimisation SEO (PageRank, blogging)
-- Missions stratégiques : Ranking des leviers d'acquisition, benchmarking, veille concurentielle
-- *Technologies : Pipedrive, Lemlist, WordPress*
+### Classe préparatoire | LYCÉE SAINTE-GENEVIÈVE | Versailles 
 
-## Formation
-
-### ÉCOLE CENTRALE PARIS | Châtenay-Malabry | 2015 - 2020
-
-- Diplôme d'ingénieur généraliste, option OGI, filière FCE 
-- 2016-2017 : césure entrepreneuriale à Londres
-
----
-
-### LYCÉE SAINTE-GENEVIÈVE | Versailles | 2012 - 2014
-
-CPGE PTSI/PT\* *(Physique et Technologie)*
-
----
-
-### LYCÉE LOUIS-LE-GRAND | Paris | 2009 - 2012
-
-Baccalauréat Scientifique mention Très Bien
+### Baccalauréat Scientifique | LYCÉE LOUIS-LE-GRAND | Paris
 
 ## Langues
 
 - Anglais courant *(TOEFL : 650/677)*
 - Espagnol courant *(C1)*
 - Russe *(A2)*
-
-## Informatique
-
-- Suite Google / Office
-- Python *(Pandas, NumPy, PySide6, Requests)*
-- Machine Learning *(Gym, PyTorch, TensorFlow, Keras)*
-- Neo4j *(Cypher, Data Explorer, Linkurious)* 
-- OR-Tools 
-- GeNIe  
-- SolidWorks
-- FL Studio 
-- Unity
 
 ## Centres d'intérêts
 
