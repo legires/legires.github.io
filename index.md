@@ -2,24 +2,24 @@
 
 ### EvaBssi | Paris | Janvier 2021 - Actuel
 
-- Consulting en cybersécurité
+- Consulting en cybersécurité (https://evabssi.com)
 - Audit et modélisation du risque cyber
 
 ---
 
-### EYEROES | Saclay | Janvier 2019 - Janvier 2021
+### Eyeroes | Saclay | Janvier 2019 - Actuel
 
-- Conception de solutions numériques innovantes de dépistage et de traitement pour enfants amblyopes
+- Conception de solutions numériques de dépistage et de traitement pour enfants amblyopes (http://eyeroes.com)
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 - Prix de l'Innovation au Hackathon LEEM / Pépite France 2019
 
 ## Diplômes
 
-### Ingénieur généraliste | ÉCOLE CENTRALE PARIS | Châtenay-Malabry
+- Ingénieur généraliste | ÉCOLE CENTRALE PARIS | Châtenay-Malabry
 
-### Classe préparatoire | LYCÉE SAINTE-GENEVIÈVE | Versailles 
+- Classe préparatoire | LYCÉE SAINTE-GENEVIÈVE | Versailles 
 
-### Baccalauréat Scientifique | LYCÉE LOUIS-LE-GRAND | Paris
+- Baccalauréat Scientifique | LYCÉE LOUIS-LE-GRAND | Paris
 
 ## Langues
 
