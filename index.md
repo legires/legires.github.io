@@ -7,7 +7,7 @@
 
 ---
 
-### Eyeroes | Saclay | Janvier 2019 - Actuel
+### Eyeroes | Paris | Janvier 2019 - Actuel
 
 - Conception de solutions numériques de dépistage et de traitement pour enfants amblyopes (http://eyeroes.com)
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
@@ -15,11 +15,11 @@
 
 ## Diplômes
 
-- Ingénieur généraliste | ÉCOLE CENTRALE PARIS | Châtenay-Malabry
+- Ingénieur généraliste | École Centrale Paris | Châtenay-Malabry
 
-- Classe préparatoire | LYCÉE SAINTE-GENEVIÈVE | Versailles 
+- Classe préparatoire | Lycée Sainte-Geneviève | Versailles 
 
-- Baccalauréat Scientifique | LYCÉE LOUIS-LE-GRAND | Paris
+- Baccalauréat Scientifique | Lycée Louis-Le-Grand | Paris
 
 ## Langues
 
