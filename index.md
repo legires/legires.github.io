@@ -1,15 +1,15 @@
 ## Expérience professionnelle
 
-### EvaBssi / Paris / Janvier 2021 - Actuel
+### [EvaBssi](https://evabssi.com) / Paris / Janvier 2021 - Actuel
 
-- Consulting en cybersécurité [https://evabssi.com](https://evabssi.com)
+- Consulting en cybersécurité 
 - Audit et modélisation du risque cyber
 
 ---
 
-### Eyeroes / Paris / Janvier 2019 - Actuel
+### [Eyeroes](http://eyeroes.com) / Paris / Janvier 2019 - Actuel
 
-- Conception de solutions numériques de dépistage et de traitement pour enfants amblyopes [http://eyeroes.com](http://eyeroes.com)
+- Conception de solutions numériques de dépistage et de traitement pour enfants amblyopes 
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 - Prix de l'Innovation au Hackathon LEEM / Pépite France 2019
 
