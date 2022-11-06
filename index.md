@@ -34,7 +34,7 @@
 
 ## Centres d'intérêts
 
-- Programmation Python *(Pygame, Gym, OpenCV, Pandas, Requests, Numpy, Pillow)*
+- Python *(Pygame, Gym, OpenCV, Pandas, Requests, Numpy, Pillow)*
 - Président de la radio de Centrale Paris *(RadioPi)*
 - Fondateur de la webradio de CentraleSupélec *(RICS)*
-- Composition musicale
+- Composition musicale *(FL Studio, musique générative)*
