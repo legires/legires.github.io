@@ -1,15 +1,22 @@
 ## Expérience professionnelle
 
-### [EvaBssi](https://evabssi.com) / Paris / Janvier 2021 - Actuel
+### [Sopra Steria](https://www.soprasteria.fr/) / Consultant confirmé / Janvier 2022 - Actuel
 
 - Consulting en cybersécurité 
-- Audit et modélisation du risque cyber
+- Gouvernance, Risque et Conformité
 
 ---
 
-### [Eyeroes](http://eyeroes.com) / Paris / Janvier 2019 - Actuel
+### [EvaBssi](https://evabssi.com) / Consultant / Janvier 2021 - Janvier 2022
 
-- Conception de solutions numériques de dépistage et de traitement pour enfants amblyopes 
+- Consulting en cybersécurité 
+- Modélisation du risque cyber
+
+---
+
+### [Eyeroes](http://eyeroes.com) / Co-Fondateur / Janvier 2019 - Janvier 2021
+
+- Solutions numériques innovantes pour traiter l'amblyopie 
 - Lauréat du Challenge Startup de l'Université Paris-Saclay 2020
 - Prix de l'Innovation au Hackathon LEEM / Pépite France 2019
 
@@ -27,5 +34,7 @@
 
 ## Centres d'intérêts
 
+- Programmation Python *(Pygame, Gym, OpenCV, Pandas, Requests, Numpy, Pillow)*
 - Président de la radio de Centrale Paris *(RadioPi)*
 - Fondateur de la webradio de CentraleSupélec *(RICS)*
+- Composition musicale
