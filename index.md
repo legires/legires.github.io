@@ -1,4 +1,4 @@
-## 🌁 Expérience professionnelle
+## 💻 Expérience professionnelle
 
 ### [Sopra Steria](https://www.soprasteria.fr/) / Consultant confirmé / Janvier 2022 - Actuel
 
