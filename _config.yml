@@ -1,11 +1,10 @@
 title: Louis-Emmanuel Gires
 logo: "/images/cv2.jpg?raw=true" 
 description: > 
-  Ingénieur | Entrepreneur
+  <p><strong>Ingénieur | Entrepreneur</strong></p>
   <br><br>
-  <p><strong>Contact</strong></p>
-  <p>louis-emmanuel.gires@soprasteria.com</p> 
-  <p>(+33) 7 63 64 68 58</p>
+  <a href="mailto:louis-emmanuel.gires@soprasteria.com">louis-emmanuel.gires@soprasteria.com</a>
+  <p><em>(+33) 7 63 64 68 58</em></p>
 
   
 theme: jekyll-theme-minimal
