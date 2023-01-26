@@ -32,7 +32,7 @@
 - Espagnol courant *(C1)*
 - Russe *(A2)*
 
-## 💡 🎼 Centres d'intérêts
+## 💡 Centres d'intérêts
 
 - Python *(Pygame, Gym, OpenCV, Pandas, Requests, Numpy, Pillow)*
 - Président de la radio de Centrale Paris *(RadioPi)*
