@@ -25,7 +25,7 @@
 
 - ISO 27001 Lead Implementor 2022
 
-## Centres d'intérêts
+## Technologies
 
 - Développement Web
     - HTML
