@@ -28,17 +28,8 @@
 ## Technologies
 
 - Développement Web
-    - *HTML*
-    - *CSS*
-    - *JS*
-    - *HTMX*
+    - *HTML*, *CSS*, *JS*, *HTMX*, *SQL*, *Jekyll*, *Wordpress*, *GCP*
 - Python
-    - *Gym*
-    - *Pandas*
-    - *Numpy*
-    - *OpenCV*
-    - *BS4*
-    - *Selenium*
+    - *Gym*, *Pandas*, *Numpy*, *OpenCV*, *BS4*, *Selenium*, *Flask*
 - Autre
-    - *OR-Tools*
-    - *Genie*
+    - *OR-Tools*, *Genie*, *FL Studio*, *FFmpeg*, *Figma*, *Office*
