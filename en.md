@@ -1,18 +1,18 @@
 # Louis-Emmanuel Gires
 
-**Cybersecurity Engineer** 
-I'm an engineer specializing in statistics and complex systems.
-I'm an engineer specializing in statistics and complex systems. I studied at Centrale Paris (2020) while developing an award-winning healthcare start-up. As a cyber expert at Sopra Steria, I work on approaches to modeling and quantifying cyber risk.
-
-### Contact
 [louisemmanuelgires@gmail.com](mailto:louisemmanuelgires@gmail.com)
 (+33) 7 63 64 68 58
+
+**Cybersecurity Engineer** 
+
+I'm an engineer specializing in statistics and complex systems.
+I'm an engineer specializing in statistics and complex systems. I studied at Centrale Paris (2020) while developing an award-winning healthcare start-up. As a cyber expert at Sopra Steria, I work on approaches to modeling and quantifying cyber risk.
 
 ## Diplomas
 
 - General engineer / **École Centrale Paris** / Châtenay-Malabry
-- Classe préparatoire / **Lycée Sainte-Geneviève** / Versailles 
-- Baccalauréat Scientifique / **Lycée Louis-Le-Grand** / Paris
+- Preparatory class / **Lycée Sainte-Geneviève** / Versailles 
+- Scientific baccalaureate / **Lycée Louis-Le-Grand** / Paris
 
 ## Professional experience
 
@@ -41,5 +41,5 @@ I'm an engineer specializing in statistics and complex systems. I studied at Cen
     - *HTML*, *CSS*, *JS*, *HTMX*, *SQL*, *Jekyll*, *Wordpress*, *GCP*
 - Python
     - *Gym*, *Pandas*, *Numpy*, *OpenCV*, *BS4*, *Selenium*, *Flask*
-- Autre
+- Other
     - *OR-Tools*, *Genie*, *FL Studio*, *FFmpeg*, *Figma*, *Office*
