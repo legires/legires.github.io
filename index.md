@@ -1,3 +1,11 @@
+# Louis-Emmanuel Gires
+
+louisemmanuelgires@gmail.com (+33) 7 63 64 68 58
+
+**Ingénieur en cybersécurité**
+
+Je suis un ingénieur spécialisé dans les statistiques et les systèmes complexes. Je suis ingénieur spécialisé en statistiques et systèmes complexes. J'ai étudié à Centrale Paris (2020) tout en développant une start-up primée dans le domaine de la santé. En tant qu'expert cyber chez Sopra Steria, je travaille sur des approches de modélisation et de quantification du risque cyber.
+
 ## Diplômes
 
 - Ingénieur généraliste / **École Centrale Paris** / Châtenay-Malabry
