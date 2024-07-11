@@ -1,6 +1,7 @@
 # Louis-Emmanuel Gires
 
-louisemmanuelgires@gmail.com (+33) 7 63 64 68 58
+*email* louisemmanuelgires@gmail.com 
+*téléphone* (+33) 7 63 64 68 58
 
 **Ingénieur en cybersécurité**
 
